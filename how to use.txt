@@ -1,8 +1,0 @@
-Header Files(.h) : They include our custom data type created and all the names of the functions which we are going to implement.
-Source Code Files(.c) : They contain the defination of all the functions which were declared in header files. These files will contain the information 
-                        how the data is to managed and stored properly.
-After creating source code files, object files are created which will then be used for creating our custom library.
-
-Then, after writing test case, stay in the current folder and use this command : 
-
-gcc 'name of the file.c' -I 'location of the header files' -L 'location of library' -l 'name of library' -o 'name of executable file'
