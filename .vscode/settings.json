@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "tm_singly.h": "c",
+        "tm_doubly.h": "c",
+        "tm_required.h": "c"
+    }
+}

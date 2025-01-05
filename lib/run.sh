@@ -1,0 +1,1 @@
+ar -q libtm_c_ds_combined.a libtm_doubly.a libtm_queue.a libtm_singly.a libtm_stack.a
